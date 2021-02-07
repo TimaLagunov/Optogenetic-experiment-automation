@@ -6,9 +6,13 @@ This project was created in LabView 2018 (32bit) to synchronizes Thorlabs DC2100
 
 # Requirements
 This project uses third party libraries such as DC2100.llb, NI-VISA and IMAQ Vision libraries. Also you may need NI Max software to tune your camera.
+
 DC2100 driver: https://www.thorlabs.com/software_pages/viewsoftwarepage.cfm?code=DC2100
+
 NI-VISA: http://www.ni.com/visa
+
 IMAQ Vision: https://www.ni.com/ru-ru/support/downloads/drivers/download.vision-acquisition-software.html#367318
+
 NI Max: https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000000YGQwCAO&l=ru-RU
 
 # Using
